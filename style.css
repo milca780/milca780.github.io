@@ -1,0 +1,48 @@
+body{
+    margin: auto;
+    padding: 5px;
+    background-color: rgb(198, 216, 226);
+    background-image: url(/images/pic.PNG);
+    background-repeat: no-repeat;
+    background-position: center;
+    height:690px;
+}
+   
+h1{
+   font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    padding: 115px;
+    text-align: center;
+    align-items: stretch;
+}
+
+div h1{
+    font-size: 50px;
+}
+p{
+    font-size: 30px;
+    background-color: rgb(243, 243, 255);
+    color: #000000;
+    position:center;
+    
+}
+
+nav{
+    background-color: rgb(0, 0, 0);
+    background-size: 10px, 100%;
+    font-size: 20px;
+}
+nav a{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    padding: 90px;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+div{
+    width: 21cm;
+    height:29cm;
+    margin:auto;
+}
